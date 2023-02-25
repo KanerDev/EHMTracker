@@ -6,7 +6,7 @@ An app that keeps track of player attributes throughout your virtual career as a
 ***Note that this application needs the EHMAssistant application, you cannot use the EHMTracker without the EHMAssistant for the moment.***
 
 ## User Guide
-First of all, the first use can be difficult because there are a few steps to do. However, once the steps are well understood, it becomes very simple.
+First of all, it can look difficult at first because there are a few steps to do. However, once the steps are well understood, it becomes very simple.
 
 ### Steps to do in the EHM Assistant
 1. Start your game and open the EHMAssistant and click on "Load Game".
